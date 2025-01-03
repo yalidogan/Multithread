@@ -1,0 +1,3 @@
+/home/admin/CLionProjects/MultithreadClientV2/cmake-build-debug/CMakeFiles/MultithreadClientV2.dir
+/home/admin/CLionProjects/MultithreadClientV2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin/CLionProjects/MultithreadClientV2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
